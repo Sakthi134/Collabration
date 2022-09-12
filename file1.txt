@@ -5,3 +5,4 @@ The soft skills I am aware of is following:
 1. Python
 2. HTML
 3. CSS
+4. Java Script
