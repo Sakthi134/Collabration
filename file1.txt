@@ -4,3 +4,4 @@ I am persuing B.E.CSE final year
 The soft skills I am aware of is following:
 1. Python
 2. HTML
+3. CSS
