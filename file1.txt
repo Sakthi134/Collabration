@@ -2,4 +2,4 @@ hello all
 This is Sakthi Praba
 I am persuing B.E.CSE final year
 The soft skills I am aware of is following:
-1. 
+1. Python
